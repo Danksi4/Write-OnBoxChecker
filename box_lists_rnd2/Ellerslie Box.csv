@@ -1,0 +1,380 @@
+School,Class,Student,Delivery Type
+,,,
+Ellerslie Campus - EDMONTON,Grade 1,"Gandy, Mila",17
+,,"Kemick, Evelyn",15
+,,"Mauger, Ashton",12
+,,"Ranu, Gurleen",16
+,,"Simon, L'shaun neji Franklyn",18
+,,"Travis, Anastasia",13
+,,"Uppal, Samdrishti",14
+,,"Gohal, Jessica",22
+,,"Kim, Kyle",38
+,,"Mahmood, Samra",39
+,,"Pandher, Sahibjot Singh",40
+,,"Kim, Myah",41
+,,"Lagundino, Bea Yzabelle",59
+,,"Kaur, Savreen",63
+,,"Bislimi, Ari",72
+,,"Iqra Ejaz, Fathima",130
+,,"Mustafa, Zain",131
+,,"Quisquis, Jaifer",132
+,,"Mann, Travis",133
+,,"Leighton, Beckham",165
+,,"Shrestha, Reyansh",166
+,,"Khatri, Mayur",167
+,,"Kaur Sidhu, Manreet",168
+,,"Norshaedy, Hannah",169
+,,"Fadeyi, Clark",170
+,,"Yasar, Haniya",171
+,,"Jassal, Gurnaaz",172
+,,"Nagra, Arnav",173
+,,"Ternava, Noah",174
+,,"Pereira, Max",175
+,,"Ravindran, Aksha",176
+,,"Furquan, Rumaisa",177
+,,"Aulakh, Harmilan",178
+,,"Clarke, Connor",179
+,,"Espejo, Allyssa",180
+,,"Franco Barrios, Matias",211
+,,"Taneja, Divyanshi",212
+,,"Ylagan, Audrey",213
+,,"Rai, Divreet",214
+,,"Kaur, Manseerat",215
+,,"Patel, Lavanya",216
+,,"Trotman, Vivian",217
+,,"Abi, Anaya",218
+,,"Patel, Saanvi",219
+,,"Pithana, Keerthisri",220
+,,"Sidhu, Fateh",221
+,,"Marcoff, Sidney",222
+,,"Kaur, Avleen",223
+,,"Johal, Asees",224
+,,"Dhindsa, Varis",225
+,,"Kaur, Ayaanat",226
+,,,
+,,,
+,,,
+,Grade 2,"MacNeil, Declan",9
+,,"Song, Chloe",8
+,,"Singh, Sahibajit",23
+,,"Whitford, Joshua",33
+,,"Suryawanshi, Ruhi",34
+,,"Lepage, Farrah",45
+,,"Katoch, Agam",49
+,,"Shideh, Ismail",56
+,,"Cardinal, Janae",57
+,,"Patel, Aadhya",58
+,,"Thapa, Riyan",64
+,,"Verma, Harjas",65
+,,"Dauti, Berti",74
+,,"Aujla, Star",83
+,,"Mansoor, Ayra",84
+,,"Mistry, Kaavi",85
+,,"Kaur Dhesi, Harveen",86
+,,"Malik, Maneehah",87
+,,"Sharique Syed, Mohammed Khizar",88
+,,"Gonzalez Bento, Juan Esteban",89
+,,"Kaur, Ishreet",90
+,,"Shoda, Muskaan",91
+,,"Wolters, Atticus",92
+,,"Ogbeide, April",93
+,,"Sahu, Ishanvi",94
+,,"Pillai, Emaya",95
+,,"Altoveros, Kobe",108
+,,"Ovnovic, Keenan",109
+,,"Berlinghoff, Shayla",110
+,,"Nair, Vedhus",143
+,,"Kumar, Natasha",144
+,,"Sheikh, Ayesha",145
+,,"Aryasomayajula, Pranamya",146
+,,"Mousseau, Wells",147
+,,"Sommerstad, Nathan",148
+,,"McDonald, Katherine",149
+,,"McDonald, Andrea",150
+,,"Sharma, Tejas",181
+,,"Dhaliwal, Japjee",182
+,,"Lnu, Advika",183
+,,"Patel, Siya",184
+,,"Shawkat, Lareen",Home
+,,"Key, Tyler",227
+,,"Dhiman, Yohann",240
+,,"Bior, Jaxon",241
+,,"Singh Brainch, Myra",242
+,,"Minhas, Nirvair Singh",243
+,,"Pauline Medalla, Julyannah",244
+,,"Amal, Syeda",245
+,,"Singh, Shriddha",246
+,,"Singh Sran, Ekam",247
+,,"McComish, Kash",248
+,,"Thompson, Gwendolyn",249
+,,"Patel, Aarna",250
+,,"Sanoop, Savio",251
+,,"Qazi, Ilyana",252
+,,"Egbuwoku-Evioghene, Riwo",253
+,,"Eapen, Eliana",254
+,Grade 3,"BETANCES, NAURELYN",3
+,,"Dhaliwal, Arjan",4
+,,"Gladue, Easton",2
+,,"Travis, Deklynn",1
+,,"Miller, Olivia",19
+,,"Miller, Ethan",21
+,,"Pandher, Manmeet",55
+,,"Aujla, Dilreet",66
+,,"Singh Kular, Ekamvir",82
+,,"Daoussis, Oliver",96
+,,"Mavi, Avraj",97
+,,"Sharp, Beckett",98
+,,"Johnson, Max",99
+,,"Petgrave, Zaneek",100
+,,"Rathore, Hridhansh",101
+,,"Bienvenue, Brody",102
+,,"Sharma, Somraj",185
+,,"Patel, Gia",186
+,,"Clarke, Lachlan",187
+,,"Lakshmi Mote, Maha",188
+,,"Duggal, Taksh",189
+,,"Jassal, Ranveer",190
+,,"Basra, Aveer",191
+,,"Chadha, Veer",192
+,,"Linton, Benjamin",318
+,,"Dakha, Waryam",319
+,,"Fraser, Sincere",320
+,,"Bijulal, Aawaz",321
+,,"Payne, Beth",322
+,,"Bhavra, Mia",323
+,,"Bijulal, Aarav",324
+,,"Lonsbury, Evan",325
+,,"Sandhu, Noor",326
+,,"McComish, Kingston",327
+,,"Jassi, Rivan",328
+,,"Singh, Sehaj",329
+,,"Singh, Manfateh",330
+,,"Rudderham, Hannah",331
+,,"Saini, Avleen",332
+,,"Patel, Reyansh",333
+,,"Pena, Abby",334
+,,"Bior, Zayden",335
+,,"Shako, Joyce",336
+,,"Patel, Krishva",337
+,,"Corbally, Liam",338
+,,"Khan Abbasi, Haroon",346
+,,"Haneesh, Hira",347
+,,"Russell, Stirling",348
+,,"Abbasi, Daniyal",349
+,,,
+,Grade 4,"Bejavada, Kashvi",24
+,,"Makhloga, Suyoga",27
+,,"Pandher, Jaiveer",25
+,,"Kaur, Gurnoor",26
+,,"Jani, Enthani",48
+,,"Bains, Sukhmani",60
+,,"Shrestha, Avani",103
+,,"Dzafovic, Aldin",104
+,,"Mousseau, Hudson",105
+,,"Hancock, Rockwell",106
+,,"Karki, Aayam",107
+,,"Leighton, Jeffrey",193
+,,"Furquan, Areeba",194
+,,"Stroud, Blake",195
+,,"Parhar, Ansh",196
+,,"Caldwell, Emily",197
+,,"Verma, Viraaj",198
+,,"Gonzales, Julianna",199
+,,"Rota, Oliver",228
+,,"Guthro, Faith",229
+,,"Gill, Ekam",230
+,,"Singh Ghotra, Jasraj",231
+,,"Haruna-Thomas, Tasmiyah",232
+,,"Haider, Rayyan",233
+,,"Thompson, Oliver",234
+,,"Dhindsa, Nimrit",235
+,,"Qureshi, Mohammad",236
+,,"Singh Dhiman, Gurman",237
+,,"Duncan, Bristol",238
+,,"Coker, William",239
+,,,
+,,,
+,Grade 5,"Gill, Nimrat kaur",11
+,,"Williams, Owyn",10
+,,"Walker, Willow",46
+,,"Katoch, Siya",50
+,,"Nasser, Ruqayyah",67
+,,"Medagoda, Harini",68
+,,"Bali, Keshav",73
+,,"Omeasoo, Loreen",76
+,,"Sanotra, Bhavika",111
+,,"Kaur, Sehajpreet",112
+,,"Wagner, Rylee",134
+,,"Lnu, Angelina",135
+,,"Sallan, Seerat",137
+,,"Clarke, Leo",202
+,,"Pillai, Rohan",305
+,,"Gill, Dayaal",306
+,,"Kaur, Simone",307
+,,"Pithana, Kaushiksrinivas",308
+,,"Dhadly, Reet",309
+,,"Paniura, Rubi",310
+,,"Khan Abbasi, Ayan",311
+,,"Dhanoa, Kayaan",312
+,,"Egbuwoku-Evioghene, Oruarooghene Hardara",313
+,,"Angelo Al-os, Jaime",314
+,,"Payne, Jax",315
+,,"Grewai, Armaan",316
+,,"Enoch, Shako",317
+,,,
+,Grade 6,"Brar, Manreet Kaur",6
+,,"Ghuman, Mantaj kaur",7
+,,"Gohal, Gurshan",28
+,,"Kaur, Harleen",77
+,,"Randhawa, Jaymen",75
+,,"Bislimi, Olsa",79
+,,"Marston, Kaden",80
+,,"Nowicki, Dario",113
+,,"Currie, George",114
+,,"Kaur Dhesi, Harleen",115
+,,"Sarwar, Ayaan",116
+,,"Afzal, Anum",117
+,,"Umit, Kartik",118
+,,"Pucay, Lhianne",119
+,,"Clarke, Rosalie",120
+,,"Ejeana, Michael",124
+,,"Sidhu, Fatehveer",136
+,,"Osman, Habib",138
+,,"Shah, Shrihan",139
+,,"Kumar, Kartik",141
+,,"Mote, Shravan",142
+,,"Sidhu, Reetinder",262
+,,"Arora, Kiaan",263
+,,"Qureshi, Areebah",264
+,,"Dobaria, Jiya",265
+,,"Hareem, Syeda",266
+,,"Shako, Joseph",267
+,,"Udey Gill, Har",268
+,,"Suhaan Sarvaiya, Mohammed",269
+,,"Dhanjal, Fatehveer",270
+,,"Jorgensen, Odin",271
+,,"Slusar, Zane",272
+,,"Kaur, Yuvleen",273
+,,"Kaur Ghuman, Anureet",274
+,,"Singh, Jasnabh",275
+,,"Payne, Nelson",276
+,,"Singh, Samarjeet",277
+,,"Kaur, Jasnoor",278
+,,"Khatri, Manit",284
+,,"Mankotia, Aradhya",285
+,,,
+,,,
+,Junior High,"Brar, Ranvijay Singh",30
+,,"Lo, Jaedon jittiphat",29
+,,"Ranu, Jashan",31
+,,"Al, Sara Taha",32
+,,"Pandher, Kanwarvir",35
+,,"Syed, Ali",36
+,,"Gusnowsky, Henry",51
+,,"Bains, Gurtaj",52
+,,"Patel, Aanya",62
+,,"El-Abry, Suad",69
+,,"Buendia, Sabrina",70
+,,"Pagarigan, Natalie",78
+,,"Osman, Mohamed",151
+,,"Sidhu, Harleen",152
+,,"Sharma, Samaira",153
+,,"Berlinghoff, Orianna",154
+,,"Verma, Ojas",155
+,,"Rai, Jasnoor",156
+,,"Mangru, Reya",161
+,,"Rodriguez Bento, Sheryl Sofia",162
+,,"Din, Ammar",163
+,,"Rai, Balveer",164
+,,"Patel, Arya",157
+,,"Singh Twana, Jazmeet",158
+,,"Afzal, Ahsan",159
+,,"Nowicki, Miya",160
+,,"Stroud, Greyson",203
+,,"Malik, Sophia",204
+,,"Sy, Xian",205
+,,"Ali, Iman Issir",206
+,,"Singh Bains, Kabir",207
+,,"Michael-McCloskey, Blair",208
+,,"Singh, Jasnaam",209
+,,"Mustafa, Mariam",210
+,,"Meendering, Elodie",255
+,,"Nicolai-deKoning, Amaryah",256
+,,"Granados Lopez, Anthony",257
+,,"Kuperis, Tyler",258
+,,"Mbajiorgu, Joelle",259
+,,"Jongsma, Ava",260
+,,"Shortt, Ciaran",261
+,,"Lumaban, Kian",339
+,,"Shirmali, Krishiv",340
+,,"Paniura, Roy",341
+,,"Areej, Syeda",342
+,,"Bijulal, Aaina",343
+,,"Dhiman, Harsh",344
+,,"Patel, Vihaana",345
+,,"Atwal, Joshveer",350
+,,"Hermanson, Ronin K.",351
+,,"Kalyan, Ayush",352
+,,"Singh, Sahib",353
+,,"Kaur, Harsimran",354
+,,"Schneider, Gabriel",355
+,,"Bhattal, Abhiraj Singh",356
+,,"Grant, Jervais",357
+,,"de Leon, Xavier",358
+,,"Singh Sohal, Angadbir",359
+,,"Berge, Emma",360
+,,"Kaur, Harsimrat",361
+,,"Abbasi, Abdullah",362
+,,"Bagga, Ariana",363
+,,"Ojo, Oluwatimileyin",364
+,,,
+,,,
+,,,
+,,,
+,Kindergarten,"Hogarth, Paisley",5
+,,"Singh, Fatehveer",20
+,,"Blais, Tenley",37
+,,"Mahmood, Aleena",42
+,,"Umer, Hadi",43
+,,"Gulshi, Gurangad",44
+,,"Sarna, Shivansh",47
+,,"Tellent, Emily",53
+,,"Tallent, Kate",54
+,,"Kaur Sangha, Nadar",61
+,,"Joshi, Urvi",71
+,,"Dauti, Morena",81
+,,"Rajbhandari, Maanya",121
+,,"Sommerstad, Benjamin",122
+,,"Ejeana, Elizabeth",123
+,,"Bienvenue, Rylee",125
+,,"Johnson, Ellie",126
+,,"Kaur Mander, Mehreen",127
+,,"Khehra, Aarnav",128
+,,"Batchelor, Brixton",129
+,,"Watson, Weston",140
+,,"Duggal, Lavish",200
+,,"Sharma, Anjali",201
+,,"Corbally, Jake",279
+,,"Rudderham, Hailey",280
+,,"Kaur, Samreen",281
+,,"Bior, Sasha",282
+,,"Shani, Aashi",283
+,,"Jorgensen, Rikka",286
+,,"Sukhov, Tymur",287
+,,"Marahar, Ekveer",288
+,,"Steitzer, Andy",289
+,,"Nayyar, Nainish",290
+,,"Abraham, Abigail Shinse",291
+,,"Egbuwoku-Evioghene, Evioghene",292
+,,"McLaughlin, Rachel",293
+,,"Fraser, Sire",294
+,,"Payne, Jesse",295
+,,"Aranda, Julieta",296
+,,"Fitzgerald, Beatrice",297
+,,"Patel, Yashree",298
+,,"Singh, Gurbaaz",299
+,,"Keenan, Cayden",300
+,,"Shako, Esther",301
+,,"Bakshi, Jivika",302
+,,"Mal, Navdeep",303
+,,"Singh Brainch, Seerat",304

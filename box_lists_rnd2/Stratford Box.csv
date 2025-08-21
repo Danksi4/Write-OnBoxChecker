@@ -1,0 +1,310 @@
+School,Class,Student,Delivery Type
+,,,
+Stratford School - EDMONTON,1 Cogito,"Augustus, Keenan",Home
+,,"Galang, Bella",Home
+,,"Rong, Jasper",Home
+,,"Yenidil, Delal",Home
+,,"Wang, Hannah",Pickup
+,,"Zhang, Aiyla",Pickup
+,,"Fu, Edith",Pickup
+,,"Liu, Jeff",Pickup
+,,"Xu, Scarlett",Pickup
+,,"Butler, Brayden",Home
+,,"Li, Jason",Home
+,,"Liu, Arvin",Home
+,,"Ngo, Katie",Home
+,,"Okolo, Nathan",Home
+,,"Huang, Serena",Home
+,,"Barut, Clint",Home
+,,"Azeez, Ashraf",Home
+,,"Matocinos, Kheianne",Home
+,,"Ashoori, Serena",Home
+,,"Kumpula, Akaash",Home
+,,"Binil, Tresa",Home
+,,"Choukrani, Sami",Home
+,,"Omijeh, Noah",Home
+,,"Edayanal Varghese, Joshua",Pickup
+,,"Chiazor, Jaden",Home
+,,"Churiwalla, Aarya",Pickup
+,,"Hebrio, Jeeden Dale",Home
+,,"Zakariyau, Hussein",Pickup
+,,"Zakariyau, Hassan",Pickup
+,,"Ranjithkumar, Devika",Pickup
+,,"Zhou, Ryan",Pickup
+,,"Zhou, James",Pickup
+,,"Shao, Alston",Home
+,,"Radadiya, Aarav",Pickup
+,,"Leach, Monroe",Pickup
+,,"Elina, Polina",Home
+,,"Kasireddi, Anusha",Pickup
+,,"Dewan, Ayaana",Pickup
+,,"Semwal, Vian",Pickup
+,,"Karetnikov, Julia",Home
+,,"Vikram, Yashwini",Pickup
+,,"Padhi, Aayansh",Home
+,,"Karthikeyan, KishoreSai",Pickup
+,,"Arora, Keyara",Pickup
+,,,
+,,,
+,,,
+,2 Cogito,"Patterson, Jeneilia",Home
+,,"Khedri-Adel, Farah",Home
+,,"Martynenko, Katya",Home
+,,"Prasanna, Thasvanth",Home
+,,"Mathew, Juvel",Home
+,,"McPherson, Laella",Home
+,,"Olatniwo, Folaranmi",Home
+,,"Osunro, Oluwadarasimi",Home
+,,"Boye-Fakunie, Ini",Home
+,,"Fadele, Elianna",Home
+,,"Zheng, Hannah",Pickup
+,,"Mohindra, Pravek",Home
+,,"Hirjee, Keyan",Pickup
+,,"Khatri, Kanjel",Home
+,,"Gonzalo Agbang, Gabe",Home
+,,"Kulathilake, Ayuni",Home
+,,"Santhoshraj, Dhiya",Home
+,,"Senko, Thea",Home
+,,"Capati, Javon",Home
+,,"Canete, Amarah",Home
+,,"Vineeth, Thejas",Pickup
+,,"Nguyen, Jeannie",Home
+,,"Steward, Hudson",Home
+,,"Zaman, Adyan",Home
+,,"Chu, Keyla",Home
+,,"Obiorah, Kaira",Home
+,,"Ismoilov, Fazliddin",Home
+,,"Aminu, Amal",Home
+,,"Adebisi, Demi",Home
+,,"Gautam, Prayan",Pickup
+,,"Furey, Bennett",Home
+,,"Xue, June",Pickup
+,,"Twumasi, Afia",Home
+,,"Panda, Sanjisha",Home
+,,"Dizon, Mayah",Home
+,,"Xue, Emory",Pickup
+,,"Rabbani, Sehrish",Pickup
+,,"Bezabeh, Ellena",Home
+,,"El Bali, Yahya",Home
+,,"Sharma, Avyaan",Pickup
+,,"Jalaf, Reiyansh",Pickup
+,,"An, Lucas",Home
+,,"Calleja, Lucca",Home
+,,"Tesfaye, Mathias",Home
+,,,
+,,,
+,3 Cogito,"Dhandhukiya, Mahi",Home
+,,"Liu, Albert",Home
+,,"Gurodetskyy, Milana",Home
+,,"Hamid, Khadija",Home
+,,"Gurung, Prisha",Home
+,,"Ravinder, Roy",Home
+,,"Kibrom, Nathan",Home
+,,"McKenzie, Abraham",Home
+,,"Sharif, Zain",Home
+,,"Lei, Monique",Home
+,,"Williams, Clara",Home
+,,"Zemichael, Soliana",Home
+,,"Ayu, Shalom",Home
+,,"Aryal, David",Home
+,,"Amoah, Janelle",Home
+,,"Peprah, Ellison",Home
+,,"Proskow, Braelyn",Home
+,,"Zhou, Anthony",Home
+,,"Xie, Stella",Home
+,,"Chiazor, Janelle",Home
+,,"Sor, Tanaya",Home
+,,"Braun, Pippa",Home
+,,"Braun, Penny",Home
+,,"Thanoj, Godwin",Home
+,,"Abdi, Aisha",Home
+,,"Chahal, Tahira",Home
+,,"Dizon, Hezekiah",Home
+,,"Zhao, Cory",Home
+,,"Jobin, Sarah",Pickup
+,,"Jobin, Joel",Pickup
+,,"Zhan, Leona",Home
+,,"Wang, Ivy",Home
+,,"Harihara, Aadhya",Home
+,,"Marcinkowski, Leon",Home
+,,"Gangji, Ilhan",Pickup
+,,"Lewis, Noah",Home
+,,"Khosa, Aarav",Home
+,,"Aryal, Serena",Home
+,,"Adelakun, Gabrielle",Pickup
+,,"Onuoha, Olivia",Home
+,,"Junaid, Huda",Home
+,,"Gawde, Sia",Home
+,,"Adu, Micaiah",Home
+,,"Acaba, Genevie",Home
+,,"Karetnikov, Eva",Home
+,,"Ranjithkumar, Rithish",Pickup
+,,"Arora, Keyaan",Pickup
+,,"Dabas, Vihaan",Pickup
+,,"Adewale, Ifemidayo",Pickup
+,,"Nibu, Aldrin",Picckup
+,,"Hammoudi, Ahmad",Pickup
+,,"Loghin, Emmett",Pickup
+,,,
+,4 Cogito,"Augustus, Orando",Home
+,,"Hamid, Fatima",Home
+,,"Lin, Eason",Home
+,,"Hirjee, Mia",Pickup
+,,"Hassan, Aseel",Pickup
+,,"Ji, Zico",Home
+,,"Huang, Stefan",Home
+,,"Vicaruddin, Meryum",Home
+,,"Bannert, Ryan",Home
+,,"Binil, Maria",Home
+,,"Steward, Eden",Home
+,,"Khan, Rijja",Home
+,,"Amoako, Andre Leo",Home
+,,"John, Lianne",Home
+,,"Raki, Selihom",Home
+,,"Ahmed, Khadijah",Pickup
+,,"Sharma, Sanya",Home
+,,"Zhao, Gloria",Home
+,,"Chan, Leroy",Pickup
+,,"Zakariyau, Fareedah",Pickup
+,,"Jalaf, Sharveen",Pickup
+,,"Vikram, Akarash",Pickup
+,,"Maroke, Surkhab",Home
+,,"Nicolas, Rowie",Home
+,,"Khan, Emaad",Home
+,,"Thakur, Neeva",Home
+,,"Adam, Manasik",Home
+,,"Padhi, Anurag",Home
+,,"Tesfaye, Michael",Home
+,,"Wilson, Kathon",Pickup
+,,,
+,,,
+,5 Cogito,"Hong, Alden",Home
+,,"Aggarwal, Bhargavi",Home
+,,"Hong, Kaden",Home
+,,"Reznikov, Daniel",Home
+,,"Deo, Gunvir",Home
+,,"Agbang, Romeo III",Home
+,,"Rijal, Deepika",Home
+,,"Kibrom, Eli",Home
+,,"Tilki, Mirjiyan",Home
+,,"James, Meeghal",Home
+,,"Ngo, Annie",Home
+,,"Johnrin, Elizabeth",Home
+,,"Manuwa, Rute",Home
+,,"Liu, Nadia",Home
+,,"Proskow, Austin",Home
+,,"Kumpula, Ishaan",Home
+,,"Rodriguez-Paryak, Sofia",Home
+,,"Amoah, Emmanuel",Home
+,,"Richardson, Abbey",Home
+,,"Huang, Cayden",Home
+,,"Choukrani, Sara",Home
+,,"Nguyen, Jayden",Home
+,,"Nguyen, Jake",Home
+,,"Sor, Anaya",Home
+,,"Li, Leon",Home
+,,"Han, Martin",Home
+,,"Han, Max",Home
+,,"Omijeh, Jesse",Home
+,,"Limon, Iven",Home
+,,"Gungor, Kuzey",Pickup
+,,"Twumasi, Kwasi",Home
+,,"Xue, Elena",Pickup
+,,"Devarakonda, Rishi",Pickup
+,,"Shinto, Athena",Pickup
+,,"Humpal, Avnie",Pickup
+,,"Acaba, Troy",Home
+,,"Lui, Isla",Home
+,,"Piedad, Alexandra",Home
+,,"Kiran, Haron",Home
+,,"Dhaliwal, Simrat",Home
+,,"Evcin, Arin",Home
+,,"Babatunde, Teniola",Home
+,,"Gemechu, Hasset",Home
+,,"Gemechu, Nolawi",Home
+,,"Opincaru, Victor",Home
+,6 Cogito,"Livtsov, Daniil",Home
+,,"Gurung, Prajal",Home
+,,"Povar, Eric",Home
+,,"Dharmasena, Mihin",Home
+,,"Ahvazi, Adrien",Home
+,,"Sidhu, Hazel",Home
+,,"Noh, Edwin",Home
+,,"Jose, Cloud Kirby",Home
+,,"Kidane, Kaleb",Home
+,,"Zhou, Ethan",Home
+,,"Steward, Isla",Home
+,,"Furey, Elijah",Home
+,,"Kaur, Trisha",Home
+,,"Edayanal Varghese, Matthews",Pickup
+,,"Erdemir, Ciwan",Home
+,,"Zemichael, Meley",Home
+,,"Abdelmadjid, Sara A",Pickup
+,,"Baranowski, Hallie",Pickup
+,,"Karki, Gracie",Home
+,,"Lewis, Alayna",Home
+,,"Chan, Lynette",Pickup
+,,"Onuoha, Stephanie",Home
+,,"Babatunde, Eniola",Home
+,,"Pandya, Arko",Home
+,,"Adu, Michael",Home
+,,"Tefera, Mariyamawit",Home
+,,"Adelakun, Tiffany",Pickup
+,,"Sharma, Arnav",Pickup
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,Junior High,"Khobragade, Riya",Home
+,,"El-Sikhry, Bassel",Home
+,,"Hong, Alana",Home
+,,"Elsayed, Adam",Home
+,,"Dollman, Chai-Lai",Home
+,,"Subudhiray, Ayush",Home
+,,"Binder, Ryan",Home
+,,"Tilki, Zeysan",Home
+,,"Santhoshraj, Vishvanthraj",Home
+,,"Morariu, Gregory",Home
+,,"Okolo, Daniel",Home
+,,"Vicaruddin, Eisa",Home
+,,"Manuwa, Garen",Home
+,,"Manuwa, Ruona",Home
+,,"Ashoori, Mehrana",Home
+,,"Jose, Coddy Kersten",Home
+,,"Matocinos, Kherian",Home
+,,"Oumar-Bechir, Saada",Pickup
+,,"Thanoj, Aksa",Home
+,,"Chahal, Jasmehar",Home
+,,"Kumpula, Asha",Home
+,,"Ahmed, Essa",Pickup
+,,"Zemichael, Yoel",Home
+,,"Billones, Alicia",Home
+,,"Khan, Eshaal",Home
+,,"Cabarubias, Jared",Home
+,,"Chaudhary, Rohan",Home
+,,"Omrani, Amna",Home
+,,"Ariyo, Dami",Home
+,,"Erdemir, Adar Yilmaz",Home
+,,"Wilson, Ogooluwa",Pickup
+,,"Devarakonda, Sirisha",Pickup
+,,"Nwaiwu, Hansel",Home
+,,"Twumasi, Nanayaa",Home
+,,"Shinto, Abel",Pickup
+,,"Abergas, Kedric",Pickup
+,,"Adu, Gabrielle",Home
+,,"Fuhol, Alexei",Home
+,,"Lui, Layla",Home
+,,"Humpal, Aarav",Pickup
+,,"Jalaf, Aishreen",Pickup
+,,"Mbanga, Liseli",Pickup
+,,"Habibzai, Lemar",Home
+,,"Nicolas, Rolando III",Home
+,,"Junaid, Hadi",Home
+,,"Tesfaye, Mary",Home
+,,"Folescu, Emma",Home
+,,"Onuoha, Francis",
+,,"Loghin, Lucas",Pickup

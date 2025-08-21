@@ -1,0 +1,314 @@
+Class,Student,Delivery Type
+,,
+Grade 1,"Mapletoft, Adeline",22
+,"Mahoney, Keira",27
+,"Cook, Maya",50
+,"Madian, Sienna",51
+,"Lorenscheit, Kai",49
+,"Chen, Elena",101
+,"Reyes Cruz, Jealiyah Caitren",102
+,"Opaleye, Demi",103
+,"Kim, Lettie",104
+,"Gagliardi, Lorenzo",105
+,"Howard, Stetson",147
+,"Pozzobon, Gia",148
+,"Sanchez, Mae",149
+,"Pozzobon, Aria",150
+,"Peng, Maxwell",175
+,"Singh, Riaan",176
+,"Lotoski, Jackson",177
+,"Barbieri, Marisa",178
+,"Jubinville, Avery",179
+,"Lefthand, Kerri-Maye",180
+,"Carson, Kane",181
+,"Morrison, Lou",182
+,"Inglis-Uhryn, Henry",218
+,"Kalejaiye, Temi",219
+,"Hauenstein, Luna",220
+,,
+,,
+,,
+,,
+,,
+Grade 2,"Berry, Jason",2
+,"McClure, Austin",1
+,"Tran-Kuiack, Gabriel",3
+,"Fahlman, Kash",28
+,"Pichach, Luke",53
+,"Granda, Diego",54
+,"Vandezande, Anthony",52
+,"Xu, Edward",92
+,"O'Connell, Finley",106
+,"Nicolaides, Christina",107
+,"Lin, Sabrina",108
+,"Hood-Greer, David Judah",112
+,"Jorgensen, Hayden",140
+,"Kowalski, Lily",143
+,"Odenigbo, Harvery",151
+,"Benyeogor, Ebubenna",152
+,"Moss, Rushton",183
+,"Bliss, James",184
+,"Shen, Natalie",185
+,"Kennedy, Nathan",186
+,"Alloca, Zoe",187
+,"Tausif, Manaal",188
+,"Enwefah, Runo",189
+,"Wang, Emma",190
+,"Alexander, Maxwell",191
+,"D'Souza, Rowan",192
+,"Lewis, Lakey",221
+,"Boone, Lana",222
+,"Rizk, Emilia",223
+,"Chukwurah, Zachi",224
+,"Carson, Ellis",225
+,"Adetola, Nathan",226
+,"Nguyen, Arai",227
+Grade 3,"Berry, Emma",6
+,"McClure, Hailey",8
+,"Pinto, Leo",7
+,"Rogers, Parker",5
+,"Sidhwani, Eliana",9
+,"Xu, Archer",4
+,"Mapletoft, Zachary",23
+,"To, Ella",31
+,"Vucic, Mirko",60
+,"Moores, Kaden",58
+,"Errico, Benjamin",62
+,"Ng, Andrew",95
+,"Girling, Olivia",109
+,"Artus, Natalie",110
+,"Umole, Isabella",111
+,"Malhame, John",113
+,"Ewaskiw, Griffin",114
+,"Sheka, Norbu",118
+,"Jamett, Cristiano",153
+,"Hobart, Emily",158
+,"LeBlanc, Maisie",193
+,"Amorim, Henry",194
+,"Armstrong, Liam",195
+,Duldulao Pacupac,196
+,"Kolade, Noah",197
+,"Dixon, Dominic",198
+,"Shamsi, Rayyan",199
+,"Fereira, Mathias",200
+,"Cordoba, Sandra",201
+,"Aguilera Balanza, Noa Sophia",202
+,"Timmer, Eva",228
+,"Morrison, Nova",229
+,"Clark, Alyssa",230
+,"Voo, Nicholas",231
+,"Rizk, Luke",232
+,"Poon, Spencer",233
+,"Clark, Chloe",234
+,"Chacin-Perozo, Isabella",235
+,"Olandesca, Jordyn",236
+,,
+,,
+Grade 4,"Odiakaose, Michelle",11
+,"Ramotowski, Maxim",29
+,"Zhang, Hannah",10
+,"Mahoney, Owen",30
+,"Vandezande, Giuliana",56
+,"McKeown, Ada",57
+,"Kornylo, Noah",55
+,"Pilling, Emily",59
+,"Lien, Bennett",93
+,"Lit Chung, William",156
+,"Laurent Zimamoto, Gabriel",155
+,"Laurent Zimamoto, Raphael",154
+,"Jackson, Cash",157
+,"Ewaskiw, Harrison",159
+,"Benyeogor, Isioma",160
+,"Okeke, Richard",161
+,"Watt, Carly",162
+,"Mendoza, Zeb",163
+,"Enwefah, Kessiena",203
+,"Lickiss, Emmaline",204
+,"Shen, Caitlyn",205
+,"Lumsden, Bennett",276
+,"King, Liam",280
+,"Leone Garcia, Edward",281
+,"Diachok, Yaropolk",282
+,"Yang, Peishan",283
+,"Ariel Lasore, Oluwayemisi",284
+,"Law, Nora",285
+,,
+Grade 5,"Coldwell, Abigail",12
+,"Ollenberger, Gwyneth",24
+,"Forest, Charlize",32
+,"Saguin, Daniela",33
+,"Cartwright, Jake",34
+,"Ruesga-Rojas, Mathias",63
+,"Francisco, Evey",61
+,"Pichach, Isaac",64
+,"Valente, Jace",65
+,"Martinez, Valentina",66
+,"Knutson, Abbey",94
+,"Artus, Andrew",115
+,"Girling, Sophia",116
+,"Opaleye, Timi",117
+,"Morton, Alex",119
+,"Nicolaides, Eleftheria",120
+,"Park, Jacob",206
+,"Semere, Neyat",207
+,"Odenigbo, Karen",208
+,"Coghlan, Harrison",209
+,"Afolayan, Oreoluwa",210
+,"Armstrong, Lennon",211
+,"Bonilla Vargas, Sophie Isabella",212
+,Moss Riel,213
+,"LeBlanc, Rowan",214
+,"Chukwurah, Zani",215
+,"Tausif, Yasaa",216
+,"Sieno, Mason",217
+,"Ryan, Ellie",237
+,"Angeles, Jhareed Jace",238
+,"Ceballos, Emilio",239
+,"Thakkar, Yuvraj",240
+,"Aguilera Balanza, Alfredo Alejandro",241
+,,
+,,
+,,
+,,
+,,
+Grade 6,"Bauld, Alex",13
+,"Siewe, Owen",25
+,"Goncalves, Olivia",35
+,"Saguin, Jared",36
+,"Larson, Reid",37
+,"Reynolds, Philip",67
+,"Hayward, Lily",68
+,"Velazquez, David",69
+,"Mendes, Arthur",70
+,"Moores, Evalee",71
+,"Xu, Thomas",97
+,"Jorgensen, Hadley",133
+,"Lit Chung, Matthieu",134
+,"Reyes Cruz, Jeanae Cwenn",135
+,"Malhame, Sasha",136
+,"Harrington, Emily",137
+,"Burke, Summer",138
+,"Ng, Vaughn",139
+,"Ducharme, Elena",252
+,"Afolayan, Danita",253
+,"Poon, Quentin",254
+,"Benekritis, Sarah",255
+,"Nguyen, Astoria",256
+,"Sekerak, Jacob",257
+,"Clark, Avy",258
+,"Park, Leah",259
+,"Pezzente, Tommaso",260
+,"Adetola, Sophie",261
+,"Duckworth, Rhys",262
+,"Brinkworth, Sophie",263
+,"Jenkins, Emma",264
+,"Singh, Rohan",265
+,"Chiedozie-Madueke, Chi",266
+,,
+,,
+,,
+Grade 7,"Coldwell, Genevieve",14
+,"Favero, Lex",16
+,"Zhang, Jasper",15
+,"Zhou, Arianna",17
+,"George, Elsa",26
+,"Ramotowski, Jackson",38
+,"Martel, Julianna",42
+,"Giacomini, Colten",43
+,"Mendes, Lia",44
+,"Duncalf, Thomas",45
+,"Mahoney, Elise",46
+,"Viray, Aaron",72
+,"Pilling, Sarah",73
+,"Cook, Tessa",75
+,"Ruesga-Rojas, Camilla",74
+,"MacMillan, Charley",77
+,"Knutson, Emma",96
+,"Jackson, Sawyer",141
+,"Okeke, Faith",144
+,"Wang, Hawkson",287
+,"Mastalic, Mila",288
+,"Ochoa, Nicolas",289
+,"Galipeault, Daylen",290
+,"Semere, Noah",291
+,"Shamsi, Eliza",292
+,"Fyodor Bond, Nicholas",293
+,"Kollar, Elora",294
+,"Thakkar, Viraj",295
+,,
+,,
+,,
+,,
+Grade 8,"Larson, Sienna",47
+,"Clarke, Will",48
+,"Mendes, Sophia",76
+,"Valente, Ty",78
+,"Hayward, Emari",79
+,"Pichach, Jade",81
+,"Gordon, Luke",83
+,"Ng, Emilia",100
+,"Zimamoto, V",121
+,"Diaz, Katherine",122
+,"Wurster, Luca",123
+,"Jackson, Parker",124
+,"Harrington, Conor",125
+,"Watt, Adrian",132
+,"Odenigbo, Kendra",142
+,"Lickiss, Connor",242
+,"Chukwurah, Chizita",243
+,"Moss, Bohdan",244
+,"Kolade, Kayla",245
+,"Gialen, Shean",246
+,"Sleno, Benjamin",247
+,"Duckworth, Rylee",248
+,"Ryan, Jack",249
+,"Sekerak, Emma",250
+,"Urquhart, Cole",251
+,,
+Grade 9,"Martel, Jacob",39
+,"Griffiths, Michael",40
+,"Reynolds, Nicholas",82
+,"Martines, Natalia",80
+,"Clarke, Luke",84
+,"Velazquez, Daniel",86
+,"Lit Chung, Nicolas",145
+,"Adediran, Tomi",146
+,"Jenkins, Cameron",274
+,"Benekritis, Matthew",275
+,"Mastalic, Ava",277
+,"Clark, Caleb",278
+,"Erdelsky, Marcel",279
+,"Okechukwu, Alexander",286
+,,
+Kindergarten,"Kim, Lucas",19
+,"Pinto, Ana",21
+,"Rogers, Keagan",20
+,"Sidhwani, Caleb",18
+,"To, Harrison",41
+,"Leaman, Hannah",85
+,"Vucic, Oliver",87
+,"Madian, Gia",88
+,"Errico, Myles",90
+,"Tamikado, Rhys",91
+,"McKeown, Callum",89
+,"Ragan, Isabel",98
+,"Lai, Giselle",99
+,"Mendoza, Zya",126
+,"Umole, Nathan",127
+,"Lin, Ivy",128
+,"Schaefer, Elena",129
+,"Artus, Victoria",130
+,"O'Connell, Brodyn",131
+,"Hobart, James",164
+,"Gagliardi, Domenico",165
+,"Christmas, Lida",166
+,"Armstrong, Elliott",167
+,"Alexander, Lennix",168
+,"Moss, Evera",169
+,"Boone, Anthony",170
+,"Law, Aria",171
+,"Bliss, Hailey",172
+,"Timmer, Leo",173
+,"Chiu, Cassie",174
+,"Cosic, Luka",267
+,"Wirshko, Bennett",268

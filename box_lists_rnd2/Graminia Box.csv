@@ -1,0 +1,262 @@
+Class,Student,Delivery Type
+,,
+Grade 1,"Ali, Angelo",5
+,"Andrews, Hailey",65
+,"Cardinal-Panegyuk, Bear",178
+,"Dumais, Theo",9
+,"Duncan, Kaimee",7
+,"Dyjak, Kasia",8
+,"Fedorak, Marcus",160
+,"Fillier, Nolan",117
+,"Giordano, Mila",62
+,"Goretzki, Lucy",49
+,"Goudreau, Mara",118
+,"Hos, Elifsu",23
+,"Klippert, Nevada",76
+,"Lassu, Quinn",24
+,"Lueders, George",174
+,"McMillan, Ben",74
+,"Nevesely, Amanda",184
+,"Sykes, Colt",47
+,"Taylor, Jane",43
+,"West Chow, Layne",48
+,"Williams, Avery",15
+,"Wilson, Chloe",75
+,"Frank, Riley",187
+,"Fedorvich, Landree",192
+,"Urchyshyn, Zakkary",193
+,"Burr, Briggs",197
+,"Kawa, Carson",201
+,"Ricard, Kinsley",208
+,"Johnson, Brianna",209
+,,
+,,
+,,
+Grade 2,"Armitage, Wyatt",17
+,"Beech, Bennett",155
+,"Bentley, Azelyn",134
+,"Bentley, Kaiya",133
+,"de Boer, Violet",11
+,"Douziech, Eli",80
+,"Fritz, Jillian",180
+,"Golka, Kienen",1
+,"Graham, Koa",159
+,"Hanson, Jadeyn",158
+,"Heigh, Alexander",12
+,"Kinsella, Anya",170
+,"Klippert, Kane",79
+,"Lear, Lillian",81
+,"Lueders, Charlotte",177
+,"Mesh, Chase",66
+,"Meston, Scout",156
+,"Mueller, Kali",78
+,"Neilson, Gracen",176
+,"Rockwell, Mason",64
+,"Service, Theo",135
+,"Skriver, Jack",157
+,"Thomas, Caden",29
+,"Tribiger, Ayla",145
+,"Weber, Parker",42
+,"Williams, Claire",50
+,"Wurz, Hayden",77
+,"Bourgoin, Elle",Home
+,"Meston, Mila",210
+,"Topola, Oakley",211
+,"Bouchard, Christie",212
+,"Waterhouse, Walter",213
+,"Sopatyk, Koda",214
+,"Sopatyk, Knox",215
+,"Sudeyko, Kallista",216
+,,
+Grade 3,"Armitage, Madison",18
+,"Barakat, Karim",116
+,"Berger, Elaine",32
+,"Darragh, Cohen",70
+,"Darragh, Declan",67
+,"Deck, Tessa",99
+,"Fedorak, Mackenzie",161
+,"Gangji-Gil, Samira",57
+,"Giordano, Matteo",63
+,"Goretzki, Henry",52
+,"Gracie, Jordan",114
+,"Gracie, Quinn",115
+,"Hos, Poyraz",27
+,"Hughes, Mason",41
+,"Kavanagh, Charlie",167
+,"Kavanagh, Henry",168
+,"Kimmerly, Vaughn",51
+,"Meston, Griffin",100
+,"Millett, Cole",148
+,"Preece, Nathan",147
+,"Ratcliffe, Jasmine",175
+,"Schriner, Jacklyn",33
+,"Thomas, Bryar",31
+,"Waterman, Audrey",146
+,"West Chow, Gene",58
+,"Wilson, Ali",83
+,"Worrell, Nathan",113
+,"Wurz, Madison",82
+,"Doherty, Lillian",188
+,"Crighton, Ben",190
+,"Cavill, Jason",194
+,"Fedorvich, Macklin",195
+,"Burr, Jovie",198
+,"Dowdall, Cameron",217
+,"Arthurs, Lyndell",218
+,"Woodman, Glenn",219
+,"Topola, Indiana",220
+,"Hole, Alicia",221
+Grade 4,"Andrews, Emilia",68
+,"Barakat, Yara",120
+,"Boisvert, Hux",138
+,"Brandon, Sienna",164
+,"Douziech, Farrah",84
+,"Fedorak, Jeremy",101
+,"Fillier, Rylan",137
+,"Frank, Weston",86
+,"Fritz, Levon",179
+,"Graham, Kaia",139
+,"Hanson, Brynn",136
+,"Keenan, Charlene",25
+,"Manning, Merrick",19
+,"Matlock, Ryker",56
+,"Merrills, Hudson",20
+,"Mueller, Kayden",85
+,"Nevesely, Leopold",183
+,"Pidsadowski, Benjamin",140
+,"Schriner, Ashlyn",34
+,"Taylor, Felix",39
+,"Tribiger, Emil",150
+,"Watson, Owen",149
+,"Sopatyk, Bohdan",202
+,"Meston, Tripp",203
+,"Strathdee, Lachlan",Home
+,"Johnson, Chloe",222
+,"Dittmer, Kashton",223
+,"Waterhouse, Delilah",224
+,"Woodman, Olivia",225
+,,
+,,
+Grade 5,"Bennett, Jocelyn",166
+,"Bourassa, Zach",102
+,"Brandon, Kylie",173
+,"Deck, Kylee",105
+,"Gehlert, Jace",55
+,"Golka, Kooper",2
+,"Gracie, O'Ryan",119
+,"Hanson, Tanner",141
+,"Jensen, Dylan",104
+,"Kelly, Jayden",88
+,"Mesh, Jordyn",71
+,"Meston, Brynn",103
+,"Panegyuk, Rowlin",165
+,"Preece, Emmett",151
+,"Ryckman, Austin",142
+,"Trebaczkiewicz, Axel",90
+,"Trebaczkiewicz, Theodore",87
+,"Worrell, Noah",113
+,"Wurz, Emery",89
+,"Crighton, Owen",191
+,"Burr, Everly",199
+,"Meston, Phoebe",204
+,"Sudeyko, Lukas",226
+,,
+Grade 6,"Boisvert, Dec",143
+,"Culham, Nolan",107
+,"Darragh, Lincoln",69
+,"Fillier, Kadence",130
+,"Frank, Braelyn",93
+,"Fritz, Hudson",181
+,"Galinski, Lucas",128
+,"Golka, Kayden",3
+,"Goretzki, Annabelle",60
+,"Hopper, Oliver",126
+,"Leder, Cort",109
+,"Leder, Norah",91
+,"MacPherson, Ty",106
+,"McMillan, Hadley",92
+,"Morris, Sophia",127
+,"Pidsadowski, Samuel",129
+,"Rupp, Tayla",171
+,"Schriner, Blakelyn",35
+,"Watson, Lincoln",153
+,"Williams, Cohen",53
+,"Williams, Everett",54
+,"Cavill, Nienke",196
+,"Strathdee, Jaxon",Home
+,"Sopatyk, Jaxon",205
+,"Dowdall, Andrew",227
+,"Arthurs, Dilynn",228
+,,
+Grade 7,"Broadbent, Ariel",131
+,"de Boer, William",10
+,"Frank, Paisley",94
+,"Fritz, Kin",182
+,"Gangji-Gil, Imran",61
+,"Preece, Marissa",152
+,"Roberts, Kate",14
+,"Rupp, Landon",172
+,"Ryckman, Nash",132
+,"Trebaczkiewicz, Jack",95
+,"Stromberg, Selena",186
+,"Stangland, Ash",Home
+,"Ricard, Bentley",229
+,,
+,,
+,,
+Grade 8,"Bourassa, Mackenna",109
+,"Darragh, Porter",72
+,"Hankinson, Reece",4
+,"Hanson, Madison",40
+,"Jensen, Elsa",110
+,"Manning, Harlow",21
+,"McMillan, Ryker",96
+,"Cavill, Tim",206
+,,
+,,
+,,
+,,
+Grade 9,"Ali, Sophia",6
+,"Broadbent, Lucien",121
+,"Culham, Gavin",111
+,"Gehlert, Tori",59
+,"Leder, Coy",112
+,"Tribiger, Chloe",154
+,"Waterman, Avi",162
+,"Stangland, Christian",Home
+,"Kaluza, Andrew",230
+,,
+,,
+,,
+,,
+,,
+Kindergarten,"Andrews, Grayson",73
+,"Beech, Bash",125
+,"Benner, Brody",97
+,"Blokzyl, Cash",28
+,"Boisvert, Xyi",144
+,"Brousseau, Norah",45
+,"Cordell, Jayda",26
+,"Deck, Liam",46
+,"Dumais, Trav",9
+,"Gehlert, Beau",44
+,"Goudreau, Kipp",122
+,"Gushue, Henry",124
+,"Heigh, Isaiah",13
+,"Hughes, Marissa",38
+,"Kinsella, Maximus",169
+,"LaRiviere, Blake",163
+,"Lowe, Amelia",185
+,"Merrills, Marshall",22
+,"Schriner, Rylen",36
+,"Skriver, Finn",123
+,"Thomas, Rowan",30
+,"Weber, Claire",37
+,"Williams, Owen",16
+,"Worrell, Emily",113
+,"Wurz, Walker",98
+,"Doherty, Darwin",189
+,"Richard, Emma",200
+,"Meston, Eddy",207
+,"Strathdee, Emelynn",Home
+,"Dittmer, Granger",231

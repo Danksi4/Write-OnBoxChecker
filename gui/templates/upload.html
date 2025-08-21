@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+{% endblock %}
+
+{% block body %}
+<body>
+    <h1>Write-On Box Checker</h1>
+
+    <form action="/upload" method="POST" enctype="multipart/form-data">
+        <label for="file">Upload Files:</label>
+        <input type="file" id="file" name="file"><br />
+        <button>Upload</button>
+    </form>
+    <form action="/upload" method="POST">
+        <button>Check Lists</button> <!-- want this to link the user to the 'check' page so they can view their files and select which ones to check-->
+    </form>
+</body>
+{% endblock %}

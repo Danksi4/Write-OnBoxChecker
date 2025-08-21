@@ -1,0 +1,321 @@
+Class,Student,Delivery Type
+,,
+Grade 1,"Adams - Jackson, Jayden",3
+,"Alinejad, Yosif",188
+,"Bolton, Kylo",128
+,"Campbell, Avery",Home
+,"Dieno, Kacey",183
+,"Field, Ellie",Home
+,"Gothe, Rosalie",146
+,"Havlin, Joyce",138
+,"Havlin, Tavish",136
+,"Jamieson, Zane",145
+,"Jatakovic, David",59
+,"Mueller, Jessica",137
+,"Murphy, Paxton",Home
+,"Sinclair, Memphis",2
+,"Sollid, Elijah",Home
+,"Ukshini, Dua",1
+,"Willden, Beau",Home
+,"Willden, Henry",Home
+,"Zenelaj, Era",82
+,"Dehari, Roni",Home
+,"Brown, Parker",Home
+,"Maty Ndime, Aicha",206
+,"Romeus, Thiago",207
+,"Cotey, Oliver",Home
+,"Yeung, Chloe",222
+,"Ocampo, Jhia",223
+,"Krasniqi, Valdrit",224
+,,
+,,
+Grade 2,"Aldabbagh, Layan",Home
+,"Aluko, Nathan",177
+,"Andrews, Zayne",129
+,"Baxandall, Addison",75
+,"Elvertorp, Rylan",8
+,"Erturk, Yunus Emre",85
+,"Fadol, Omer",100
+,"Fairley, Avery",99
+,"Fald, Nathaniel",119
+,"Flores, Aaron",130
+,"Goad, Cameron",5
+,"Gurung, Arya",Home
+,"Hassanzada, Ali Yazdan",84
+,"Hawkins, Olivia",Home
+,"Jenkyns, Blake",78
+,"Kaur, Jasmine",Home
+,"Kaur, Muskan",86
+,"LaPointe, Abigail",148
+,"Maceachern, Jade",7
+,"Menon, Avayah",166
+,"Mirza, Maha",46
+,"Naruta, Daniel",22
+,"Peterson, Avery ",114
+,"Phan, Ronin",118
+,"Plop, Emma",147
+,"Reid, Tayhlor",149
+,"Riedyk, Isaac",97
+,"Rigan, Minerva",9
+,"Stephens, Kennedy",167
+,"strong, kaiden",6
+,"Tippett, Gracie",4
+,"Watson, Harley ",113
+,"Zamburek, Henry",87
+,"Jamieson, Zane",193
+,"Buttar, Rihaan",Home
+,"Brown, Asher",Home
+,"Jameson, Cooper",Home
+,"Thompson, Cordelia",202
+,"Beatson, Wesley",Home
+,"Singh, Mireya",Home
+,"Camodag, Jayden",208
+,"Atkinson, Violet",225
+,"Fossey, Oliver",226
+,"Sianov, Adam",227
+,,
+Grade 3,"Al-Bataineh, Lana",Home
+,"Attia, Myra",169
+,"Bangalisan, Ralph",102
+,"Budzinski, Tristan",56
+,"Campbell, Nathan",103
+,"Dieno, Kylie",184
+,"Glegloff, Carter",98
+,"Gray, Beckett",150
+,"Grbic, Aleksa",120
+,"Guzman, Kyrie",30
+,"Ishkair, Talya",101
+,"Lee, Kristen",23
+,"Ludwig, Reina",24
+,"MacLean, Ava",181
+,"Markevych, Marko",168
+,"Miller, Sofia",28
+,"Mirza, Ilyas",49
+,"Moledina, Bodhi",31
+,"Mueller, Kaitlyn",140
+,"Nithyanand, Deetya",29
+,"Pajkic, Andja",48
+,"Pajkic, Jana",47
+,"Pham, Sophia",25
+,"Pllana, Leo",27
+,"Proskow, Kendrick",88
+,"Ramirez, Zoey",32
+,"Richardson, Charlie",26
+,"Rudyk, Anastasia",170
+,"Schols, Greyson",151
+,"Sinovarfaj, Samira",139
+,"Trieu, Evelyn",68
+,"Zenelaj, Rina",79
+,"Tiquia, Emmanuel",189
+,"Ziylan, Ellis",194
+,"Alinejad, Masoumeh",195
+,"Tseng, Penelope",Home
+,"Walls, Annabelle",Home
+,"Barnes, Victoria",209
+,"Tapit, Ariana",210
+,"Potts Lee, Nash",211
+,"Pascual, Meah",212
+,"Craner, Taylor",213
+,"Desjarlais, Jade",Home
+,"Krasniqi, Lunik",228
+,"Bachinski, Aubrey",229
+,,
+,,
+,,
+,,
+,,
+Grade 4,"Alhaj Daoud, Mila",154
+,"Aluko, Olivia",178
+,"Andrews, Violet",131
+,"Carpenter, Benedict",152
+,"Driscoll, Reid",171
+,"Hong, Tiffany",10
+,"Jenkyns, Chase",80
+,"Kanji, Tarik",12
+,"Kaur, Tavneet",155
+,"LaPointe, Johanna",153
+,"Leong, Parker",11
+,"Lucero, Denver",89
+,"Magilton, Kaitlyn",179
+,"Menon, Samaya",173
+,"Ng, Cayden",122
+,"Ninal, Mireya Xael",93
+,"Oltean, Maya",76
+,"Phan, Arabella",121
+,"Rudyk, Maryna",172
+,"strong, oliver",13
+,"Watson, Lily-Ann",115
+,"Schaub, Eva",196
+,"Smith, Elaina",Home
+,"Cotey, Elizabeth",Home
+,"Gill, Gabriel",Home
+,"Siptar, Mia",Home
+,"Tinana, Xander Zion",197
+,"Maweni, Kupakwashe",214
+,"Barnes, Isabella",215
+,"Potts Lee, Sheldon",216
+,"Yeung, Charlotte",230
+,"Kocak, Elisa",231
+,"Kozhevnikova, Katya",232
+,"Morin, Jerrhet",245
+,,
+,,
+,,
+Grade 5,"Allen, Emma",52
+,"Boukatov, Alyssa",16
+,"Burrows, Blake",Home
+,"Candelasa, Jaron Clark",14
+,"Dissanayaka, Risini",Home
+,"Driscoll, Weston",174
+,"Drummond, Andi",156
+,"Drummond, Korra",158
+,"Durrant, Natalie",104
+,"Elvertorp, Logan",53
+,"Enss, Emma",33
+,"Flores, Anton",132
+,"Fontana, Avery",70
+,"Hurly, Daniel",57
+,"Hurly, Gabrielle",58
+,"Klechukov, Emily",Home
+,"Kuehne, Madalyn",187
+,"Lakovic, Mila",81
+,"Lucero, Anjalie",90
+,"Moledina, Tarek",55
+,"Nguyen, Taylor",142
+,"Pajkic, Una",61
+,"Pham, Jacob",51
+,"Ramirez, Gabrielle",54
+,"Rawat, Ansh",69
+,"Reid, Tahj-Mark",159
+,"Richardson, Kaitlyn",17
+,"Rowlands, Jacob",157
+,"Secgin, Ahmet Hakan",116
+,"Serrano-Zwikstra, Madelyn",186
+,"Siever, Aurora",60
+,"Sinovarfaj, Nolin",141
+,"Tran, Wilson",Home
+,"Ukshini, Redon",15
+,"Walker, Khadijah",117
+,"Wilks, Logan",Home
+,"Zaleskikh, Daniel",50
+,"Dehari, Rei",198
+,"Jameson, Emily",Home
+,"Anderson, Adelyn",Home
+,"Tseng, Derek",Home
+,"Medina, Malcolm",
+,"Popowich, Julie",Home
+,"Kinney, Ahna",199
+,"Huget, Raina",200
+,"Akbay, Ahmet",217
+,"Gill, Lyla",Home
+,"Radic, Isidora",218
+,"Beatson, Declan",
+,"Lockwood, Evan",233
+,"Tweedie, Arie",234
+,"Wang, Shu",235
+,"Tuck, William",246
+,"Colak, Kerem",247
+,,
+,,
+Grade 6,"Al-Dabbagh, Ryan",Home
+,"Capjack, Juliet",133
+,"Carpenter, Owen",160
+,"Dat, Marvi",19
+,"Davison, Grace",92
+,"Fald, Jonathan",123
+,"Hong, Martin",18
+,"Jariwala, Ashaz",185
+,"Kaur, Simarpreet",161
+,"MaGee, Connor",20
+,"Morel, Chase",40
+,"Okoroafor, Chinazom",143
+,"Petzold, Cameron",21
+,"Rout, Amelia",38
+,"Siever, Thornton",62
+,"Singh, Damanjot",91
+,"Rogne, Kaitlin",191
+,"Rogne, Brooklyn",190
+,"Pham, Nathan",
+,"Marcelino, Khaizer",Home
+,"Kermalli, Sarah",203
+,"Brown, Lydia",204
+,"Huget, Julianna",205
+,"Desjarlais, Dante",Home
+,"Reed, Kyleigha",219
+,"Argegan, Delilah",220
+,"McBain, Aubree",Home
+,"Alfahoum, Odai",236
+,"Krasniqi, Adijona",237
+,"Ocampo, Jed",238
+,"Alfahoum, Yaseen",239
+,"Atkinson, Irelyn",240
+,"Potskin, Jocelyn",248
+,"Kinney, Jaxx",249
+,,
+,,
+Junior High,"Al-Bataineh, Hashem",Home
+,"Al-Bataineh, Lamar",Home
+,"Andrews, Elijah",135
+,"Ardiel, Carly",77
+,"Bell, Jeryka",124
+,"Belway, Shane Blake",41
+,"Brooks, Michael",109
+,"Burrows, Charlie",Home
+,"Cambe, Clyde",34
+,"Capjack, Ella",134
+,"Caswell, Kai",37
+,"Davison, Kaitlyn",95
+,"Edgington, Alaina",127
+,"Enss, Nele",35
+,"Flores, Elysse Sophia",83
+,"Fontana, Daxton",72
+,"Gillard, Russell",175
+,"Grabher, Lyla",36
+,"Grbic, Danilo",126
+,"Hutchinson, Alexandria",45
+,"Jeon, Gio",63
+,"Lazanik, Aiden ",112
+,"Lazanik, Bentley",106
+,"MacLean, Liam",182
+,"Magilton, Colin",180
+,"Manning, Madison",43
+,"Markevych, Anastasiia",176
+,"Mikkelsen, Esme",111
+,"Mikkelsen, Mads",110
+,"Nguyen, Chase",144
+,"Ninal, Mica",94
+,"Oh, Jacob",64
+,"Owane, Mason",74
+,"Petrov, Kaloyan",Home
+,"Petzold, Zoe",44
+,"Phan, Spencer",125
+,"Plop, Marius",165
+,"Pogor, Kevin",162
+,"Pogor, Yannis",163
+,"Praxidio, Julianna",67
+,"Prodaniuk, Ali",107
+,"Robertson-Shattler, James",66
+,"Robertson-Shattler, Kenzie",65
+,"Rout, Lilian",39
+,"Secgin, Melike Sultan",108
+,"Sinclair, Brody",42
+,"Singh, Nukal",Home
+,"Stark, Jayda",105
+,"Trach, Phoenix",73
+,"Trieu, Natalie",71
+,"Wilks, Ivy",Home
+,"Wischneski, Isabela",164
+,"Jariwala, Anaum",192
+,"MacDougall, Spencer",Home
+,"Kermalli, Hassan",201
+,"Popowich, Jacob",Home
+,"Araujo, Briannah",Home
+,"Craner, Brooklyn",221
+,"Singh Masuta, Ranveer",Home
+,"Araujo, Sarah",Home
+,"Zamburek, Charlie",96
+,"Groenewold, Brayden",241
+,"Lockwood, Vanessa",242
+,"Krasniqi, Erblin",243
+,"Santiago, Mikaela",244
+,,

@@ -1,0 +1,225 @@
+Class,Student,Delivery Type
+,,
+Grade 1,"Afshar, Ava",42
+,"Aimoe, Dylan",62
+,"Campeau, Mason",24
+,"Cruikshank, Brian",114
+,"Desai, Aadhya",168
+,"Dodd, Finn",115
+,"Dunwoody, Myles",61
+,"Folkema, Tristan",112
+,"Giuffre, Noel",167
+,"Goodchild, Crawford",2
+,"Heon, Annabelle",25
+,"Jiang, Aaron",40
+,"Kaur Bhullar, Millan",Home
+,"Lin, Emma",64
+,"Lishingman, Isaac",191
+,"Milner, Molly",19
+,"Monga, Rhea",Home
+,"Mutaguchi, Suzu",21
+,"Nazer, Ava",3
+,"Ng, Alyssum",13
+,"Park, Lucas",31
+,"Qureshi, Ruhina",119
+,"Raza, Zahra",116
+,"Ross, Ellis",60
+,"Sadeghzadeh, Karaan",63
+,"Seo, Phillip",74
+,"Siddiqi, Zaiyar",26
+,"Sun, Hermann",1
+,"Topaz, Emilia",41
+,"von Stackelberg, Bram",23
+,"Wang, Milly",117
+,"Wilson, Rhys",118
+,"Wong, Evi",113
+,,
+Grade 2,"Chui, Liam",89
+,"Colpitts, Madison",77
+,"Gee, Olivia",120
+,"Gornall, Luke",169
+,"Isaac, Ella",4
+,"Kim, Rex",75
+,"Kolinsky, Jack",170
+,"Laraway, Cameron",Home
+,"Lin, Harrison",Home
+,"Liversage, Luna",121
+,"Mieke, Ella",30
+,"Min, Max",90
+,"Morrison, Brynn",122
+,"Nordstrom, Caleb",123
+,"Parihar, Joshua",124
+,"Rella, Brooklyn",43
+,"Semeniuk, Emiliia",65
+,"Soni, Ayan",20
+,"Sutanto, Asher",86
+,"Toprak, Musab",76
+,,
+Grade 3,"Alcantara, Yexel Zion",171
+,"Arndt, Molly",128
+,"Boven, Breanna",174
+,"Brecht, Olivia",131
+,"Buchanan, Harrison",
+,"Carver, Addison",33
+,"Carver, Bennett",34
+,"Carver, Thomas",32
+,"Chiu, Adalym",36
+,"Chu, Finnigan",127
+,"Dodd, Oliver",129
+,"Dupuis, Lewis",130
+,"Gandoke, Devan",125
+,"Giuffre, Tom",172
+,"Hoshowski, Henry",132
+,"Ip, Katelyn",47
+,"Jin, Ellen",37
+,"Ling, Enzo",46
+,"Mackie, Preston",35
+,"Paik, Daina",87
+,"Salloum, Isaiah",67
+,"Sivagar, Thusana",5
+,"Tsirekas, Melina",6
+,"Wilson, Harriet",126
+,"Wong, Alexander",Home
+,"Zhang, Aaron",27
+,"Zhou, Ephia",78
+,"Zukiwsky, Cruz",48
+,"Zverina, Aria",66
+,,
+Grade 4,"Aimoe, Bennett",69
+,"Asim, Saifaan",139
+,"Boyko, Wyatt",181
+,"Buller, Zoey",198
+,"Cho, Kailla",94
+,"Colpitts, Noah",79
+,"Czernikiewicz, Maksymilian",135
+,"Dunwoody, Quinn",68
+,"Giuffre, Alice",175
+,"Goodchild, Poppy",7
+,"Gornall, Jake",182
+,"Grewal, Samira",183
+,"Hwang, Ryan",141
+,"Khurram, Aleeza",81
+,"Kolinsky, William",176
+,"Lawrence, Amelia",12
+,"MacKay, Ella",173
+,"Magee, Tai",45
+,"Mahar, Zaviyar",142
+,"McArter, Jack",92
+,"Milner, Nolan",22
+,"Nagendran, James",44
+,"Nordstrom, Mikaila",136
+,"Park, Georgia",138
+,"Qureshi, Abdul-Qadir",145
+,"Raza, Ayesha",137
+,"Richard, Ella",95
+,"Rieckmann, Olivia",70
+,"Seo, Leah",80
+,"Shah, Antara",6
+,"Siddiqi, Zidan",28
+,"Sivagar, Thusan",8
+,"Taghedi, Yazeed",197
+,"Tanner, Amelia",140
+,"Tchir, Jeremy",91
+,"Tran, Julianna",93
+,"Tran, Ronin",133
+,"Wong, Timothy",134
+,,
+Grade 5,"Ahn, Daon",180
+,"Alcantara, Matt Yzckyl",179
+,"Arndt, Cooper",147
+,"Blake, Delma",177
+,"Deng, Ella",203
+,"Desai, Jiya",184
+,"Dupuis, Isaac",148
+,"El Hallani, Lina",17
+,"Hoffman, Rielle",9
+,"Hudson, Brynn",178
+,"Hwang, Hannah",143
+,"Ibrahim, Yahia",18
+,"Johannesson, Annabel",192
+,"Kim, Cayenne",144
+,"Lin, Renee",Home
+,"Min, Nora",96
+,"Mostashari, Max",146
+,"Nault, Hunter",151
+,"Radmanovich, Luka",193
+,Rieckmann Connor,71
+,"Russell, Ivory",58
+,"Salloum, Mercy",73
+,"Sutanto, Ezra",88
+,"Tian, Max",202
+,"Ulro, Hadia",194
+,"Wong, Logan",149
+,"Wong, Max",150
+,"Yeung, Tyler",72
+,,
+Grade 6,"Bakker, Miller",103
+,"Blake, Iona",189
+,"Boven, Joshua",186
+,"Buller, James",Home
+,"Chiu, Donovan",29
+,"Chu, Kingston",153
+,"Darling, Chase",99
+,"De Guzman, Dane",85
+,"Deng, Ethan",204
+,"French, Gracin",152
+,"Guan, Cynthia",10
+,"Guo, Luke",188
+,"Haziya, Amanda",38
+,"Ho, Samuel",187
+,"Kim, Geonwoo",157
+,"Kulkarni, Aadit",102
+,"Lawrence, Ada",14
+,"Mangan, Jake",97
+,"Milner, Ivy",39
+,"Mould, Harlow",100
+,"Park, Ava",156
+,"Pfliger, Olivia",154
+,"Smith, Ezekiel",101
+,"Taghedi, Miral",Home
+,"Tchir, Owen",98
+,"Tran, Liam",104
+,"Wong, Hailey",155
+,"Wong, Naomi",185
+,"Wong, Noah",158
+,"Zhou, Eva",82
+,"Zukiwsky, Hudson",56
+,,
+Grade 7,"Aji, Ahmad Abba",50
+,"Cho, Claire",106
+,"Hadi, Abdul",195
+,"Haywood, Ethan",108
+,"Isidoro, Ian",199
+,"Mahar, Ehan",159
+,"Richard, Andrea",105
+,"Russell, Malia",57
+,"Sayers, Lily",49
+,"Smith, Ronan",51
+,"Taskinen, Reagan",160
+,,
+Grade 8,"Abbasi Dezfouly, Zahra",83
+,"Arndt, Grady",161
+,"Boven, Isabella",190
+,"Darling, Avery",109
+,"Dupuis, Eli",163
+,"Haziya, Kiran",53
+,"Hodgson, Zakir",15
+,"Hoskins, Gabriel",162
+,"Khurram, Alishba",84
+,"Kliuiev, Dmytro",107
+,"Pfliger, Jacob",164
+,"Radmanovich, Anton",196
+,"Serpas, Mia",11
+,,
+Grade 9,"Asim, Ayaan",166
+,"Bakker, Sloan",111
+,"Bellmore, Colton",165
+,"Gafuik, Elias",59
+,"Ibrahim, Mariam",54
+,"Isidoro, Reid",200
+,"Mangan, Mya",110
+,"Rajesh, Levana",52
+,"Shah, Anandita",55
+,"Yoon, Edward",Home
+,,
+Interactions,"Deng, Anthony",205
