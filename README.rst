@@ -1,27 +1,15 @@
 ==========
-Flask-Scss
+Box List Checker for Write-On Stationery
 ==========
 
-.. image:: https://travis-ci.org/bcarlin/flask-scss.png?branch=master
+This program will cross refernce hand made box lists with the box lists in the data base from the Write-On website.
 
-This extension brings Scss support to Flask apps.
-
-It is far from perfect or complete. Current features are the following:
-
-- Automatic discovery of .scss assets
-- Automatic compilation of .scss files
-- Automatic refreshing of resulting .css files when .scss sources have changed
-
-Scss files compilation is done by the
-`pyScss <http://pypi.python.org/pypi/pyScss>`_ implementation by
-German M. Bravo (Kronuz). Refer to this package documentation to see the
-supported scss syntax.
-
-Links
-`````
-
-* `documentation <http://packages.python.org/Flask-Scss>`_
-* `development version
-  <https://github.com/bcarlin/flask-scss.git#egg=Flask-Scss-dev>`_
-
-.. _pyScss: http://pypi.python.org/pypi/pyScss
+## How to use
+1. Open your terminal and navigate to a folder that contains the box lists
+2. download the box lists that you want to check from the honeycomb website (these are from the system and should be 100% correct)
+3. (optional) You will likeley want to rename the downloaded box list from the system, as it will get confusing fast if checking multiple lists
+4. Run the program WHILE IN THE DIRECTORY WITH ALL THE LISTS
+5. Type the names of the lists into the program when prompted
+6. When the program prompts you for input, read carefully and give the correct input. This will likely be mostly spelling mistakes.
+7. Once all mistakes are corrected via input, all student matches will be outputted, followed by any errors that may be fixed
+8. Manually fix errors (automatic eror fixing coming soon)
