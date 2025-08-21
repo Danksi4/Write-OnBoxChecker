@@ -2,9 +2,10 @@
 Box List Checker for Write-On Stationery
 ==========
 
-This program will cross refernce hand made box lists with the box lists in the data base from the Write-On website.
+## This program will cross refernce hand made box lists with the box lists in the data base from the Write-On website
 
 ## How to use
+
 1. Open your terminal and navigate to a folder that contains the box lists
 2. download the box lists that you want to check from the honeycomb website (these are from the system and should be 100% correct)
 3. (optional) You will likeley want to rename the downloaded box list from the system, as it will get confusing fast if checking multiple lists
